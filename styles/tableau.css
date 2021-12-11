@@ -1,0 +1,60 @@
+body {
+    background-image: url('../images/subtlepattern.png');
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+    list-style: none;
+}
+.navbar{
+    text-align:center;
+    background-color:rgba(47, 23, 15, 0.9);
+    margin: auto;
+    width:90%;
+    padding:15px;
+}
+.bar{
+    font-size:14px;
+    color:#d3d6d8;
+    text-decoration:none;
+}
+.margin{
+    margin-right: 55px;
+}
+h1, h4{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    font-size:28px;
+    color: #445746;
+}
+h2{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-size:80px;
+    color: #c6d1bf;
+    word-spacing:10px;
+    letter-spacing:13px;
+    margin-top: -40px;
+}
+.foot{
+    background-color:rgba(47, 23, 15, 0.9);
+    color:#c6d1bf;
+    text-align:center;
+    margin: auto;
+    padding:10px;
+    width:90%;
+}
+#chickennugget{
+    text-align:center;
+}
+.mainbody{
+    text-align:center;
+    margin: 0 auto;
+    width:80%;
+}
+.charts{
+    margin:auto;
+    width:60%;
+    text-align:center;
+}
